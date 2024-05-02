@@ -18,6 +18,10 @@ Here on GitHub, we host a variety of open source projects from mods for The Simp
 * [Jeff's Map Creator](https://github.com/donutteam/jeffs-map-creator) (Issues Only)
 * [P3D Merge](https://github.com/donutteam/p3d-merge)
 
+#### Resource Packs
+
+* [Game.lua](https://github.com/donutteam/game-lua)
+
 ### PAYDAY 2
 #### Mods
 
