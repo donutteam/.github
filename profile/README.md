@@ -8,7 +8,6 @@ Here on GitHub, we host a variety of open source projects from mods for The Simp
 
 ### The Simpsons Hit & Run
 
-* [Jeff's Map Creator](https://github.com/donutteam/jeffs-map-creator) (Issues & Wiki Only)
 * [Project Donut: Anniversary Edition](https://github.com/donutteam/project-donut-anniversary-edition)
 * [P3D Merge](https://github.com/donutteam/p3d-merge)
 * [Lucas Mod Launcher Lua Definitons](https://github.com/donutteam/lucas-mod-launcher-lua)
@@ -20,10 +19,8 @@ Here on GitHub, we host a variety of open source projects from mods for The Simp
 
 ### NPM Packages
 
-* [@donutteam/binary-rw](https://github.com/donutteam/npm-binary-rw)
-* [@donutteam/document-builder](https://github.com/donutteam/npm-document-builder)
-* [@donutteam/document-builder-components](https://github.com/donutteam/npm-document-builder-components)
-* [@donutteam/fritter](https://github.com/donutteam/npm-pure3d)
-* [@donutteam/pure3d](https://github.com/donutteam/npm-pure3d)
-* [@donutteam/typescript-config](https://github.com/donutteam/npm-typescript-config)
-* [@donutteam/utilities](https://github.com/donutteam/npm-utilities)
+* [@donutteam/binary-rw](https://github.com/donutteam/binary-rw)
+* [@donutteam/document-builder](https://github.com/donutteam/document-builder)
+* [@donutteam/document-builder-components](https://github.com/donutteam/document-builder-components)
+* [@donutteam/fritter](https://github.com/donutteam/fritter)
+* [@donutteam/pure3d](https://github.com/donutteam/pure3d-ts)
